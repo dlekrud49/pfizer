@@ -1,0 +1,27 @@
+.introduction {
+    text-align: center;
+}
+#lnb {
+    margin-bottom: 60px;
+}
+.map {
+    padding-left: 30%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#lnb1 {
+    padding-left: 20%;
+    font-size: 15px;
+}
+#lnb2 {
+    padding-top: 5%;
+    padding-left: 28%;
+    padding-bottom: 5%;
+    font-size: 15px;
+}
+.bio {
+    font-size: 30px;
+}
+.come1 {
+    text-align: center;
+}
